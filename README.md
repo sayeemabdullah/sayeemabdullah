@@ -7,7 +7,6 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Sayeem Md Abdullah"
         self.role = "Software Engineer"
-        self.website = "https://sayeem.me"
         self.language_spoken = ["bn", "en"]
 
     def say_hi(self):
