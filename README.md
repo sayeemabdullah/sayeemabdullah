@@ -9,10 +9,10 @@ class SoftwareEngineer:
         self.role = "Software Engineer"
         self.language_spoken = ["bn", "en"]
 
-    def say_hi(self):
+    def say_hello(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
 me = SoftwareEngineer()
-me.say_hi()
+me.say_hello()
 ```
