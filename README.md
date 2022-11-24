@@ -43,14 +43,14 @@ me.say_hello()
 
 
 <p align="center">
-  <a href="https://sayeem.me"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="darkwood"/></a>
-  <a href= "https://gitlab.com/sayeem"><img src="https://img.icons8.com/color/48/null/gitlab.png" alt="gitlab"/></a>  
-  <a href="https://www.facebook.com/sayeem29"><img src="https://img.icons8.com/color/48/null/facebook-circled--v1.png" alt="facebook"/></a>
-  <a href="https://twitter.com/_SayeemAbdullah"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="twitter"/></a>  
-  <a href="https://www.linkedin.com/in/sayeemmdabdullah"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="mailto:sayeem.mdabdullah@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/></a>
-  <a href="mailto:hello@sayeem.me"><img src="https://img.icons8.com/color/48/null/apple-mail.png" alt="personal-email"/></a>
-  <a href= "https://medium.com/@sayeem.mdabdullah"><img src="https://img.icons8.com/stickers/48/null/medium-logo.png" alt="blog"/></a>
+  <a href="https://sayeem.me" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="darkwood"/></a>
+  <a href= "https://gitlab.com/sayeem" target="_blank"><img src="https://img.icons8.com/color/48/null/gitlab.png" alt="gitlab"/></a>  
+  <a href="https://www.facebook.com/sayeem29" target="_blank"><img src="https://img.icons8.com/color/48/null/facebook-circled--v1.png" alt="facebook"/></a>
+  <a href="https://twitter.com/_SayeemAbdullah" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="twitter"/></a>  
+  <a href="https://www.linkedin.com/in/sayeemmdabdullah" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="mailto:sayeem.mdabdullah@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/></a>
+  <a href="mailto:hello@sayeem.me" target="_blank"><img src="https://img.icons8.com/color/48/null/apple-mail.png" alt="personal-email"/></a>
+  <a href= "https://medium.com/@sayeem.mdabdullah" target="_blank"><img src="https://img.icons8.com/stickers/48/null/medium-logo.png" alt="blog"/></a>
 </p>
 <hr>
 
