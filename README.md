@@ -31,17 +31,17 @@ me.say_hello()
     <img  src="https://github-readme-stats.vercel.app/api?username=sayeemabdullah&show_icons=true&theme=react&border_color=61dafb&hide_border=true&hide_title=true&line_height=36&count_private=true&hide=contribs" />
     </td>
     </tr>
+    <tr>
+    <td colspan="2">
+  <img src="https://activity-graph.herokuapp.com/graph?username=sayeemabdullah&theme=react-dark&bg_color=20232a&hide_border=true&hide_title=true" width="100%"/>
+    </td>
+    </tr>
   </tbody>
 </table>
     </p>
-<p align=center>
-  <img src="https://activity-graph.herokuapp.com/graph?username=sayeemabdullah&theme=react-dark&bg_color=20232a&hide_border=true&hide_title=true" width="100%"/>
-</p>
 <hr>
   <img src="https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=8" width="100%"/>
 <hr>
-
-
 
 <p align="center">
   <a href="https://sayeem.me"><img src="https://img.icons8.com/fluent/38/000000/domain.png" alt="darkwood"/></a>
@@ -55,4 +55,3 @@ me.say_hello()
   <a href="mailto:hello@sayeem.me"><img src="https://img.icons8.com/emoji/38/null/e-mail.png" alt="personal-mail"/></a>
 </p>
 <hr>
-
