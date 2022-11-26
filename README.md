@@ -1,4 +1,3 @@
-<hr>
 
 ```python
 #!/usr/bin/python
@@ -54,4 +53,3 @@ me.say_hello()
   <a href="mailto:sayeem.mdabdullah@gmail.com"><img src="https://img.icons8.com/color/38/000000/gmail.png" alt="email"/></a>
   <a href="mailto:hello@sayeem.me"><img src="https://img.icons8.com/emoji/38/null/e-mail.png" alt="personal-mail"/></a>
 </p>
-<hr>
