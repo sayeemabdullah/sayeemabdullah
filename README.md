@@ -9,7 +9,7 @@ class SoftwareEngineer:
         self.name = "Sayeem Md Abdullah"
         self.role = "Software Engineer"
         self.works_at = "Intercloud Limited"
-        self.lives_in = "Bangladesh"
+        self.lives_in = "Dhaka, Bangladesh"
         self.language_spoken = ["bn", "en"]
 
     def say_hello(self):
