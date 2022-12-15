@@ -20,7 +20,7 @@ me = SoftwareEngineer()
 me.say_hello()
 ```
 
-<!-- <hr>
+ <hr>
 <p>
     <table>
   <tbody>
@@ -32,14 +32,14 @@ me.say_hello()
     <img  src="https://github-readme-stats.vercel.app/api?username=sayeemabdullah&show_icons=true&theme=react&border_color=61dafb&hide_border=true&hide_title=true&line_height=36&count_private=true&hide=contribs" />
     </td>
     </tr>
-    <tr>
+<!--     <tr>
     <td colspan="2">
   <img src="https://activity-graph.herokuapp.com/graph?username=sayeemabdullah&theme=react-dark&bg_color=20232a&hide_border=true&hide_title=true" width="100%"/>
     </td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
-    </p> -->
+    </p>
 <hr>
   <img src="https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=8" width="100%"/>
 <hr>
