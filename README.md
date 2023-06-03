@@ -21,7 +21,7 @@ me.say_hello()
 ```
 
 <hr>
-  <img src="https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=8" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=9" width="100%"/>
 <hr>
 
 <p align="center">
