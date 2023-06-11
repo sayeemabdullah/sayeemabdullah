@@ -7,10 +7,10 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Sayeem Md Abdullah"
-        self.role = "Software Engineer"
-        self.works_at = "Intercloud Limited"
-        self.lives_in = "Dhaka, Bangladesh"
-        self.language_spoken = ["bn", "en"]
+        self.current_role = "Grad Student"
+        self.studies_at = "University of Regina"
+        self.lives_in = "Regina, Saskatchewan, Canada"
+        self.language_spoken = ["bn", "en", "hi"]
 
     def say_hello(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
