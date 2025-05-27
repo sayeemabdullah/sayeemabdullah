@@ -7,8 +7,8 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Sayeem Md Abdullah"
-        self.current_role = "Grad Student"
-        self.studies_at = "University of Regina"
+        self.current_role = "Developer"
+        self.studies_at = "Cerco Design"
         self.lives_in = "Calgary, AB, Canada"
         self.language_spoken = ["bn", "en"]
 
@@ -31,6 +31,6 @@ me.say_hello()
   <a href="https://www.facebook.com/sayeem29"><img src="https://img.icons8.com/color/38/null/facebook-circled--v1.png" alt="facebook"/></a>
   <a href="https://twitter.com/_SayeemAbdullah"><img src="https://img.icons8.com/color/38/000000/twitter-squared.png" alt="twitter"/></a>  
   <a href="https://www.linkedin.com/in/sayeemmdabdullah"><img src="https://img.icons8.com/color/38/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.upwork.com/freelancers/~01b06caf8d6d8842c4"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/38/null/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" alt="upwork"/></a>
+<!--   <a href="https://www.upwork.com/freelancers/~01b06caf8d6d8842c4"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/38/null/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" alt="upwork"/></a> -->
   <a href="mailto:sayeem.mdabdullah@gmail.com"><img src="https://img.icons8.com/color/38/000000/gmail.png" alt="email"/></a>
 </p>
