@@ -8,7 +8,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Sayeem Md Abdullah"
         self.current_role = "Developer"
-        self.studies_at = "Cerco Design"
+        self.works_at = "Cerco Design"
         self.lives_in = "Calgary, AB, Canada"
         self.language_spoken = ["bn", "en"]
 
