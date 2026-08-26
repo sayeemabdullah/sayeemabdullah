@@ -6,7 +6,7 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Sayeem Md Abdullah"
+        self.name = "Sayeem Abdullah"
         self.current_role = "Platform Engineer (Software)"
         self.works_at = "BigGeo"
         self.lives_in = "Calgary, AB, Canada"
